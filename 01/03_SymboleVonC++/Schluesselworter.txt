@@ -1,0 +1,2 @@
+Bezeichner sind Wörter die eine vorgeschriebene Bedeutung haben.
+Meine variable darf zum beispiel nicht den Bezeichner int verwenden. 

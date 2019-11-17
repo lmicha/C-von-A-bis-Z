@@ -1,0 +1,17 @@
+Ganzzahlen sind entweder Dezimal , Oktal oder Hexa
+
+Dezimal ist basis 10:
+0-9 beliebig oft
+
+Oktalzahl ist basis 8:
+bestimmt immer mit einener 0 gefolgt von einer Oktalzahl(0-7)
+
+Hexa ist basis 16:
+Beginnt mit 0x gefolgt von einer der Hexadezimalzahlen(1 2 3 4 5 6 7 8 9 A B C D E F)
+
+unsigned: Can only hold positve values
+signed can hold negative and positive values
+
+Fließkommazahl
+Eine Zahl aufgebaut aus einem wer vor dem Komma und einem Wert nach dem Fließkommazahl
+X,Y

@@ -1,0 +1,14 @@
+Deklaration:
+
+Typ name;
+Typ ist der Datentyp
+name ist der name der variable
+
+Deklaration ist sagen das es eine Variable, Klasse , funktion,  usw gibt
+Definition ist eine Klasse, Funktion auszubauen.
+
+class helloWord ist eine Deklaration
+class MyClass
+{
+  //CODE
+}  ist eine Definition

@@ -1,0 +1,13 @@
+Namen von Objekten in Programmen. Dies sind Variablen Funktionen Klassen.
+Ein gültiger Bezeichner besteht aus Buchstaben, Ziffern  und dem '_'
+Erste Zeichen ist nicht eine Zahl
+Untercheidet zwischen Groß und Kleinbuchstaben
+
+Gültige Bezeichner:
+Hello01
+Hello_01
+_Hello_01
+
+Nicht gültige Bezeichner:
+01Hello
+!Hello01
